@@ -1,0 +1,9 @@
+easyocr
+opencv-python-headless
+pillow
+gradio
+numpy
+anthropic
+python-pptx
+pandas
+scikit-image
